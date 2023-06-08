@@ -677,7 +677,13 @@ transition: .4s; /* for light mode animation */
   width: 70%;
 }
 .skills__js{
-  width: 60%;
+  width: 80%;
+}
+.skills__react{
+  width:40%;
+}
+.skills__vue{
+  width:80%;
 }
 
 .skills__fs{
